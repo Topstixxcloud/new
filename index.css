@@ -62,7 +62,7 @@ button:hover {
     }
 }
 p {
-    animation: loopText 5s infinite linear;
+    animation: loopText 3s infinite linear;
     text-transform: capitalize;
     font-size: 2vw;
     font-style: italic;
