@@ -3,11 +3,10 @@
 body {
     background-color: whitesmoke;
     text-align: center;
-    width: 50%;
 }
 
 .container {
-    width: 50%;
+    width: 40%;
     margin: auto;
     display: flex;
     justify-content: space-around;
@@ -53,7 +52,7 @@ button:hover {
   }
 @media  (max-width: 600px) {
     .container {
-        width: 140%;
+        width: 70%;
     }
 }
 p {
